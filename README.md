@@ -46,3 +46,22 @@ Implement a user authentication system
 Create a leaderboard with scores
 📜 License
 This project is open-source and available under the MIT License.
+
+
+
+
+
+**Steps to Clone the Repository:**
+
+You can give them the steps to clone the repository using this:
+
+```md
+## 🚀 How to Clone the Repository
+
+To clone this repository to your local machine, follow these steps:
+
+1. Open your terminal (Command Prompt, PowerShell, or a terminal in VS Code).
+2. Run the following command:
+
+```sh
+git clone git@github.com:panayiotissss/QuizAPP.git
