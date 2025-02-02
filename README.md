@@ -16,7 +16,16 @@ A simple quiz web application built with **HTML, CSS, JavaScript, and Node.js (E
 - **Version Control:** Git & GitHub
 
 ## 📂 Project Structure
-Quiz-WebAPP/ │── backend/ │ ├── quizData.js # Static quiz data │── frontend/ │ ├── index.html # Main UI │ ├── script.js # Handles quiz logic │ ├── styles.css # Styling │── server.js # Express backend │── README.md # Project documentation
+Quiz-WebAPP/
+├── **backend/**
+│   └── `quizData.js`       # Static quiz data
+├── **frontend/**
+│   ├── `index.html`        # Main UI
+│   ├── `script.js`         # Handles quiz logic
+│   ├── `styles.css`        # Styling
+├── `server.js`             # Express backend
+└── `README.md`             # Project documentation
+
 
 
 ## 🛠️ Installation & Setup
@@ -65,3 +74,5 @@ To clone this repository to your local machine, follow these steps:
 
 ```sh
 git clone git@github.com:panayiotissss/QuizAPP.git
+```
+After cloning navigate cd Quiz-webAPP
