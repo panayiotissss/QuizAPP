@@ -1,0 +1,60 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading */
+h1 {
+    color: #333;
+}
+
+/* Start Quiz Button */
+#startQuizBtn {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+}
+
+#startQuizBtn:hover {
+    background-color: #0056b3;
+}
+
+/* Quiz Container */
+#quizContainer {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Submit Button */
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Score Display */
+#scoreDisplay {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
